@@ -1,0 +1,5 @@
+{"order_id":"O1001","customer":{"customer_id":"C001","name":"John Smith"},"items":[{"product_id":"P101","quantity":2,"price":"19.99"},{"product_id":"P102","quantity":1,"price":"9.99"}],"shipping":{"city":"New York","state":"NY","zip":"10001"}}
+{"order_id":"O1002","customer":{"customer_id":"C002","name":"Mary Jones"},"items":[{"product_id":"P103","quantity":1,"price":"29.99"}],"shipping":{"city":"Jersey City","state":"NJ","zip":"07302"}}
+{"order_id":"O1003","customer":{"customer_id":"C003","name":"Bob Brown"},"items":[],"shipping":{"city":"Boston","state":"MA","zip":"02108"}}
+{"order_id":"O1004","items":[{"product_id":"P104","quantity":3,"price":"5.50"}],"shipping":{"city":"Chicago","state":"IL","zip":"60601"}}
+{"order_id":"O1005","customer":{"customer_id":"C005","name":"Lisa Hall"},"items":[{"product_id":"P105","quantity":1,"price":"15.00"}],"shipping":{"city":"Austin","state":"TX","zip":"73301"}

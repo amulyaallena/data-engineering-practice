@@ -1,0 +1,7 @@
+2026-09-29 16:17:21,582 INFO Source lines: 5
+2026-09-29 16:17:21,583 INFO Accepted order headers: 3
+2026-09-29 16:17:21,583 INFO Rejected lines: 2
+2026-09-29 16:17:21,583 INFO Expected item rows: 3
+2026-09-29 16:17:21,583 INFO Actual item rows: 3
+2026-09-29 16:17:21,583 INFO Item reconciliation: PASS
+2026-09-29 16:17:21,583 INFO Line reconciliation: PASS

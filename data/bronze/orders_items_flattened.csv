@@ -1,0 +1,4 @@
+order_id,customer_id,item_index,product_id,quantity,price,shipping_city,shipping_state,shipping_zip,source_file_name,source_line_number,ingestion_timestamp,run_id
+O1001,C001,1,P101,2,19.99,New York,NY,10001,orders.jsonl,1,2026-09-29T20:17:21.579833+00:00,20260929201721
+O1001,C001,2,P102,1,9.99,New York,NY,10001,orders.jsonl,1,2026-09-29T20:17:21.579833+00:00,20260929201721
+O1002,C002,1,P103,1,29.99,Jersey City,NJ,07302,orders.jsonl,2,2026-09-29T20:17:21.579833+00:00,20260929201721

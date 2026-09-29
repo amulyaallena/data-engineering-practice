@@ -1,0 +1,3 @@
+source_line_number,reason,details,raw_line
+4,Missing customer or customer_id,,"{""order_id"":""O1004"",""items"":[{""product_id"":""P104"",""quantity"":3,""price"":""5.50""}],""shipping"":{""city"":""Chicago"",""state"":""IL"",""zip"":""60601""}}"
+5,Malformed JSON,"Expecting ',' delimiter: line 1 column 190 (char 189)","{""order_id"":""O1005"",""customer"":{""customer_id"":""C005"",""name"":""Lisa Hall""},""items"":[{""product_id"":""P105"",""quantity"":1,""price"":""15.00""}],""shipping"":{""city"":""Austin"",""state"":""TX"",""zip"":""73301""}"
