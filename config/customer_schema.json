@@ -1,0 +1,29 @@
+{
+  "columns": {
+    "customer_id": {
+      "type": "string",
+      "required": true,
+      "nullable": true
+    },
+    "customer_name": {
+      "type": "string",
+      "required": true,
+      "nullable": true
+    },
+    "email": {
+      "type": "string",
+      "required": true,
+      "nullable": true
+    },
+    "state": {
+      "type": "string",
+      "required": true,
+      "nullable": true
+    },
+    "updated_at": {
+      "type": "utc_timestamp",
+      "required": true,
+      "nullable": true
+    }
+  }
+}

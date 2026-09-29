@@ -1,0 +1,4 @@
+customer_id,customer_name,email,state,updated_at,ingestion_timestamp,source_file_name,source_row_number,run_id
+001,John Smith,john@example.com,NY,2026-09-29,2026-09-29T19:50:58.204169+00:00,customers_day02.csv,1,20260929195058
+002,Mary Jones,mary@example.com,NJ,2026-09-29,2026-09-29T19:50:58.204169+00:00,customers_day02.csv,2,20260929195058
+003,Bob Brown,bob@example.com,CA,2026-09-29,2026-09-29T19:50:58.204169+00:00,customers_day02.csv,3,20260929195058

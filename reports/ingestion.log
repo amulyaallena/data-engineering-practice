@@ -15,3 +15,21 @@
 2026-09-29 10:00:22,252 INFO Source row count: 2
 2026-09-29 10:00:22,252 INFO Bronze row count: 2
 2026-09-29 10:00:22,252 INFO Count validation: PASS
+2026-09-29 10:10:46,089 INFO Source row count: 12
+2026-09-29 10:10:46,090 INFO Bronze row count: 12
+2026-09-29 10:10:46,090 INFO Count validation: PASS
+2026-09-29 15:47:42,072 ERROR Missing CSV header
+2026-09-29 15:50:58,218 INFO Source row count: 3
+2026-09-29 15:50:58,218 INFO Bronze row count: 3
+2026-09-29 15:50:58,218 INFO Count validation: PASS
+2026-09-29 15:55:29,145 INFO Source row count: 3
+2026-09-29 15:55:29,145 INFO Bronze row count: 3
+2026-09-29 15:55:29,145 INFO Count validation: PASS
+2026-09-29 15:55:29,147 ERROR Missing CSV header
+2026-09-29 15:55:29,157 INFO Source row count: 0
+2026-09-29 15:55:29,157 INFO Bronze row count: 0
+2026-09-29 15:55:29,157 INFO Count validation: PASS
+2026-09-29 15:55:29,159 ERROR Input file not found: C:\Users\amuly\AppData\Local\Temp\tmpm7ox9vbg\missing.csv
+2026-09-29 15:55:29,194 INFO Source row count: 2
+2026-09-29 15:55:29,194 INFO Bronze row count: 2
+2026-09-29 15:55:29,194 INFO Count validation: PASS
