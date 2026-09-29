@@ -1,0 +1,13 @@
+customer_id,customer_name,email,state,updated_at
+001,John Smith,john@example.com,NY,2026-09-28
+002,Mary Jones,mary@example.com,NJ,2026-09-28
+003,Bob Brown,bob@example.com,CA,2026-09-28
+004, Alice White ,alice@example.com,TX,2026-09-28
+005,Chris Green,chris@example.com,OH,2026-09-28
+006,Sarah Black,sarah@example.com,PA,2026-09-28
+007,David King,david@example.com,VA,2026-09-28
+008,Lisa Hall,lisa@example.com,MA,2026-09-28
+009,Tom Young,tom@example.com,FL,2026-09-28
+010,Amy Lee,amy@example.com,IL,2026-09-28
+002,Mary Jones,mary@example.com,NJ,2026-09-28
+011,  Kevin Hill  ,kevin@example.com,WA,2026-09-28
