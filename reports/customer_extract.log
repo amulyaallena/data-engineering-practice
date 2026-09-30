@@ -1,0 +1,33 @@
+2026-09-30 14:31:25,137 INFO Requested status: active
+2026-09-30 14:31:25,137 INFO Extracted count: 3
+2026-09-30 14:31:25,137 INFO Output file: data\extracts\20260930T183125Z\customer_extract.csv
+2026-09-30 15:35:42,090 INFO Requested status: suspended
+2026-09-30 15:35:42,090 INFO Extracted count: 0
+2026-09-30 15:35:42,090 INFO Output file: data\extracts\20260930T193542Z\customer_extract.csv
+2026-09-30 15:37:15,553 INFO Requested status: inactive
+2026-09-30 15:37:15,553 INFO Extracted count: 1
+2026-09-30 15:37:15,553 INFO Output file: data\extracts\20260930T193715Z\customer_extract.csv
+2026-09-30 15:40:35,852 INFO Requested status: active
+2026-09-30 15:40:35,852 INFO Extracted count: 3
+2026-09-30 15:40:35,852 INFO Output file: C:\Users\amuly\AppData\Local\Temp\tmplxcdxw91\extracts\20260930T194035Z\customer_extract.csv
+2026-09-30 15:40:35,870 INFO Requested status: active
+2026-09-30 15:40:35,870 INFO Extracted count: 3
+2026-09-30 15:40:35,870 INFO Output file: C:\Users\amuly\AppData\Local\Temp\tmpdi1v63rz\extracts\20260930T194035Z\customer_extract.csv
+2026-09-30 15:40:35,890 INFO Requested status: active
+2026-09-30 15:40:35,893 INFO Extracted count: 3
+2026-09-30 15:40:35,893 INFO Output file: C:\Users\amuly\AppData\Local\Temp\tmpl4arag68\extracts\20260930T194035Z\customer_extract.csv
+2026-09-30 15:40:35,901 ERROR Database unavailable: C:\Users\amuly\AppData\Local\Temp\tmpbzwbsse3\does_not_exist.db
+2026-09-30 15:40:35,926 INFO Requested status: suspended
+2026-09-30 15:40:35,926 INFO Extracted count: 0
+2026-09-30 15:40:35,928 INFO Output file: C:\Users\amuly\AppData\Local\Temp\tmpja8dmb68\extracts\20260930T194035Z\customer_extract.csv
+2026-09-30 15:40:35,967 INFO Source row count: 3
+2026-09-30 15:40:35,968 INFO Bronze row count: 3
+2026-09-30 15:40:35,968 INFO Count validation: PASS
+2026-09-30 15:40:35,974 ERROR Missing CSV header
+2026-09-30 15:40:36,009 INFO Source row count: 0
+2026-09-30 15:40:36,010 INFO Bronze row count: 0
+2026-09-30 15:40:36,010 INFO Count validation: PASS
+2026-09-30 15:40:36,013 ERROR Input file not found: C:\Users\amuly\AppData\Local\Temp\tmpw6zzsjop\missing.csv
+2026-09-30 15:40:36,042 INFO Source row count: 2
+2026-09-30 15:40:36,042 INFO Bronze row count: 2
+2026-09-30 15:40:36,042 INFO Count validation: PASS

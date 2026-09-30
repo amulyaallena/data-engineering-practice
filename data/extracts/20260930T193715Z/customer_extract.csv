@@ -1,0 +1,2 @@
+customer_id,customer_name,email,state,updated_at,status
+002,Mary Jones,mary@example.com,NJ,2026-09-30T10:05:00Z,inactive
