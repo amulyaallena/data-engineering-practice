@@ -31,3 +31,51 @@
 2026-09-30 15:40:36,042 INFO Source row count: 2
 2026-09-30 15:40:36,042 INFO Bronze row count: 2
 2026-09-30 15:40:36,042 INFO Count validation: PASS
+2026-10-01 17:21:58,652 INFO Requested status: active
+2026-10-01 17:21:58,652 INFO Extracted count: 3
+2026-10-01 17:21:58,652 INFO Output file: C:\Users\amuly\AppData\Local\Temp\tmp8qya2012\extracts\20261001T212158Z\customer_extract.csv
+2026-10-01 17:21:58,672 INFO Requested status: active
+2026-10-01 17:21:58,672 INFO Extracted count: 3
+2026-10-01 17:21:58,672 INFO Output file: C:\Users\amuly\AppData\Local\Temp\tmpuhjvyohr\extracts\20261001T212158Z\customer_extract.csv
+2026-10-01 17:21:58,698 INFO Requested status: active
+2026-10-01 17:21:58,698 INFO Extracted count: 3
+2026-10-01 17:21:58,698 INFO Output file: C:\Users\amuly\AppData\Local\Temp\tmpfat3de7l\extracts\20261001T212158Z\customer_extract.csv
+2026-10-01 17:21:58,701 ERROR Database unavailable: C:\Users\amuly\AppData\Local\Temp\tmpxuds_0fm\does_not_exist.db
+2026-10-01 17:21:58,714 INFO Requested status: suspended
+2026-10-01 17:21:58,714 INFO Extracted count: 0
+2026-10-01 17:21:58,714 INFO Output file: C:\Users\amuly\AppData\Local\Temp\tmp51ztrtu_\extracts\20261001T212158Z\customer_extract.csv
+2026-10-01 17:21:59,106 INFO Source row count: 3
+2026-10-01 17:21:59,106 INFO Bronze row count: 3
+2026-10-01 17:21:59,106 INFO Count validation: PASS
+2026-10-01 17:21:59,110 ERROR Missing CSV header
+2026-10-01 17:21:59,139 INFO Source row count: 0
+2026-10-01 17:21:59,139 INFO Bronze row count: 0
+2026-10-01 17:21:59,139 INFO Count validation: PASS
+2026-10-01 17:21:59,142 ERROR Input file not found: C:\Users\amuly\AppData\Local\Temp\tmp9_bqm7h4\missing.csv
+2026-10-01 17:21:59,169 INFO Source row count: 2
+2026-10-01 17:21:59,169 INFO Bronze row count: 2
+2026-10-01 17:21:59,169 INFO Count validation: PASS
+2026-10-09 09:58:14,073 INFO Requested status: active
+2026-10-09 09:58:14,073 INFO Extracted count: 3
+2026-10-09 09:58:14,073 INFO Output file: C:\Users\amuly\AppData\Local\Temp\tmpo_ccc6rd\extracts\20261009T135814Z\customer_extract.csv
+2026-10-09 09:58:14,091 INFO Requested status: active
+2026-10-09 09:58:14,091 INFO Extracted count: 3
+2026-10-09 09:58:14,091 INFO Output file: C:\Users\amuly\AppData\Local\Temp\tmpggb3jcj7\extracts\20261009T135814Z\customer_extract.csv
+2026-10-09 09:58:14,102 INFO Requested status: active
+2026-10-09 09:58:14,102 INFO Extracted count: 3
+2026-10-09 09:58:14,102 INFO Output file: C:\Users\amuly\AppData\Local\Temp\tmpr6c_ujds\extracts\20261009T135814Z\customer_extract.csv
+2026-10-09 09:58:14,104 ERROR Database unavailable: C:\Users\amuly\AppData\Local\Temp\tmpkxdcnxxv\does_not_exist.db
+2026-10-09 09:58:14,116 INFO Requested status: suspended
+2026-10-09 09:58:14,116 INFO Extracted count: 0
+2026-10-09 09:58:14,116 INFO Output file: C:\Users\amuly\AppData\Local\Temp\tmpllsd79n9\extracts\20261009T135814Z\customer_extract.csv
+2026-10-09 09:58:14,343 INFO Source row count: 3
+2026-10-09 09:58:14,343 INFO Bronze row count: 3
+2026-10-09 09:58:14,343 INFO Count validation: PASS
+2026-10-09 09:58:14,347 ERROR Missing CSV header
+2026-10-09 09:58:14,373 INFO Source row count: 0
+2026-10-09 09:58:14,373 INFO Bronze row count: 0
+2026-10-09 09:58:14,373 INFO Count validation: PASS
+2026-10-09 09:58:14,376 ERROR Input file not found: C:\Users\amuly\AppData\Local\Temp\tmp1p8_fymg\missing.csv
+2026-10-09 09:58:14,400 INFO Source row count: 2
+2026-10-09 09:58:14,400 INFO Bronze row count: 2
+2026-10-09 09:58:14,400 INFO Count validation: PASS

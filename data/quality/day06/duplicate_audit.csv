@@ -1,0 +1,4 @@
+customer_id,customer_name,email,state,updated_at,source_row_number,source_file_name,validation_status,rejection_reason,winner_source_file_name,winner_source_row_number,winner_updated_at,removal_reason
+020,Alex Carter,alex@example.com,OH,2026-09-29T10:00:00Z,18,customers_day05.csv,VALID,,customers_day05.csv,19,2026-10-01T10:00:00Z,OLDER_OR_TIE_BREAK_DUPLICATE
+020,Alex Carter,alex@example.com,OH,2026-09-28T10:00:00Z,17,customers_day05.csv,VALID,,customers_day05.csv,19,2026-10-01T10:00:00Z,OLDER_OR_TIE_BREAK_DUPLICATE
+021,Sarah Stone,sarah2@example.com,TX,2026-10-01T12:00:00Z,21,customers_day05.csv,VALID,,customers_day05.csv,20,2026-10-01T12:00:00Z,OLDER_OR_TIE_BREAK_DUPLICATE

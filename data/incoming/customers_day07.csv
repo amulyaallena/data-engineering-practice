@@ -1,0 +1,6 @@
+customer_id,customer_name,email,state,updated_at,phone,source_file_name,source_row_number
+101,  John   Smith  ,JOHN.SMITH@EXAMPLE.COM,Ohio,2026-10-06T10:00:00-04:00,614-555-1234,customers_day07.csv,2
+102,Mary Jones, Mary.Jones@Example.COM ,Texas,2026-10-06T14:00:00Z,(512) 555-2233,customers_day07.csv,3
+103,Bob Brown,bob@example.com,new york,2026-10-06T15:00:00Z,,customers_day07.csv,4
+104,Lisa Hall,lisa@example.com,Oregon,2026-10-06T16:00:00Z,+1 503 555 8899,customers_day07.csv,5
+105,Chris   Green,chris@example.com,OH,2026-10-06T17:00:00Z,12345,customers_day07.csv,6

@@ -1,0 +1,5 @@
+customer_id,raw_customer_name,customer_name,raw_email,email,raw_state,state,raw_updated_at,updated_at,raw_phone,phone,source_file_name,source_row_number,transformation_status,rejection_reason
+101,  John   Smith  ,John Smith,JOHN.SMITH@EXAMPLE.COM,john.smith@example.com,Ohio,OH,2026-10-06T10:00:00-04:00,2026-10-06T14:00:00Z,614-555-1234,+16145551234,customers_day07.csv,2,VALID,
+102,Mary Jones,Mary Jones, Mary.Jones@Example.COM ,mary.jones@example.com,Texas,TX,2026-10-06T14:00:00Z,2026-10-06T14:00:00Z,(512) 555-2233,+15125552233,customers_day07.csv,3,VALID,
+103,Bob Brown,Bob Brown,bob@example.com,bob@example.com,new york,NY,2026-10-06T15:00:00Z,2026-10-06T15:00:00Z,,,customers_day07.csv,4,VALID,
+104,Lisa Hall,Lisa Hall,lisa@example.com,lisa@example.com,Oregon,OR,2026-10-06T16:00:00Z,2026-10-06T16:00:00Z,+1 503 555 8899,+15035558899,customers_day07.csv,5,VALID,

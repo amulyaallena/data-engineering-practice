@@ -1,0 +1,21 @@
+customer_id,customer_name,email,state,updated_at
+001,John Smith,john@example.com,OH,2026-10-01T10:00:00Z
+002,Mary Jones,mary.jones@example.com,Texas,2026-10-01T10:05:00Z
+003,Bob Brown,BOB@EXAMPLE.COM,new york,2026-10-01T10:10:00Z
+004,Lisa Hall,lisa@example.com,Oregon,2026-10-01T10:15:00Z
+,Chris Green,chris@example.com,OH,2026-10-01T10:20:00Z
+006,   ,sarah@example.com,TX,2026-10-01T10:25:00Z
+007,David King,davidexample.com,NY,2026-10-01T10:30:00Z
+008,Amy Lee,amy@example.com,CA,2026-10-01T10:35:00Z
+009,Tom Young,tom@example.com,OR,
+010,Kevin Hill,kevin@example.com,  Ohio  ,2026-10-01T10:45:00Z
+011,Nina White,nina@@example.com,TX,2026-10-01T10:50:00Z
+012,Robert Black,robert@example,NY,2026-10-01T10:55:00Z
+013,Emily Stone,emily@example.com,oh,2026-10-01T11:00:00Z
+014,Michael Green,michael@example.com,TEXAS,2026-10-01T11:05:00Z
+,   ,bademail,CA,
+020,Alex Carter,alex@example.com,OH,2026-09-28T10:00:00Z
+020,Alex Carter,alex@example.com,OH,2026-09-29T10:00:00Z
+020,Alex Carter,alex@example.com,OH,2026-10-01T10:00:00Z
+021,Sarah Stone,sarah1@example.com,TX,2026-10-01T12:00:00Z
+021,Sarah Stone,sarah2@example.com,TX,2026-10-01T12:00:00Z

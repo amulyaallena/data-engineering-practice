@@ -1,0 +1,9 @@
+customer_id,customer_name,email,state,updated_at,source_row_number,source_file_name,validation_status,rejection_reason
+,Chris Green,chris@example.com,OH,2026-10-01T10:20:00Z,6,customers_day05.csv,INVALID,MISSING_CUSTOMER_ID
+006,   ,sarah@example.com,TX,2026-10-01T10:25:00Z,7,customers_day05.csv,INVALID,BLANK_CUSTOMER_NAME
+007,David King,davidexample.com,NY,2026-10-01T10:30:00Z,8,customers_day05.csv,INVALID,INVALID_EMAIL
+008,Amy Lee,amy@example.com,CA,2026-10-01T10:35:00Z,9,customers_day05.csv,INVALID,INVALID_STATE
+009,Tom Young,tom@example.com,OR,,10,customers_day05.csv,INVALID,MISSING_UPDATED_AT
+011,Nina White,nina@@example.com,TX,2026-10-01T10:50:00Z,12,customers_day05.csv,INVALID,INVALID_EMAIL
+012,Robert Black,robert@example,NY,2026-10-01T10:55:00Z,13,customers_day05.csv,INVALID,INVALID_EMAIL
+,   ,bademail,CA,,16,customers_day05.csv,INVALID,MISSING_CUSTOMER_ID;BLANK_CUSTOMER_NAME;INVALID_EMAIL;INVALID_STATE;MISSING_UPDATED_AT

@@ -1,0 +1,14 @@
+{
+  "input_count": 20,
+  "valid_count": 12,
+  "invalid_count": 8,
+  "reconciliation_status": "PASS",
+  "rule_failure_counts": {
+    "MISSING_CUSTOMER_ID": 2,
+    "BLANK_CUSTOMER_NAME": 2,
+    "INVALID_EMAIL": 4,
+    "INVALID_STATE": 2,
+    "MISSING_UPDATED_AT": 2,
+    "INVALID_UPDATED_AT": 0
+  }
+}

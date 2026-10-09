@@ -1,0 +1,2 @@
+customer_id,raw_customer_name,customer_name,raw_email,email,raw_state,state,raw_updated_at,updated_at,raw_phone,phone,source_file_name,source_row_number,transformation_status,rejection_reason
+105,Chris   Green,Chris Green,chris@example.com,chris@example.com,OH,OH,2026-10-06T17:00:00Z,2026-10-06T17:00:00Z,12345,,customers_day07.csv,6,INVALID,INVALID_PHONE

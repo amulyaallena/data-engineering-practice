@@ -1,0 +1,13 @@
+customer_id,customer_name,email,state,updated_at,source_row_number,source_file_name,validation_status,rejection_reason
+001,John Smith,john@example.com,OH,2026-10-01T10:00:00Z,2,customers_day05.csv,VALID,
+002,Mary Jones,mary.jones@example.com,Texas,2026-10-01T10:05:00Z,3,customers_day05.csv,VALID,
+003,Bob Brown,BOB@EXAMPLE.COM,new york,2026-10-01T10:10:00Z,4,customers_day05.csv,VALID,
+004,Lisa Hall,lisa@example.com,Oregon,2026-10-01T10:15:00Z,5,customers_day05.csv,VALID,
+010,Kevin Hill,kevin@example.com,  Ohio  ,2026-10-01T10:45:00Z,11,customers_day05.csv,VALID,
+013,Emily Stone,emily@example.com,oh,2026-10-01T11:00:00Z,14,customers_day05.csv,VALID,
+014,Michael Green,michael@example.com,TEXAS,2026-10-01T11:05:00Z,15,customers_day05.csv,VALID,
+020,Alex Carter,alex@example.com,OH,2026-09-28T10:00:00Z,17,customers_day05.csv,VALID,
+020,Alex Carter,alex@example.com,OH,2026-09-29T10:00:00Z,18,customers_day05.csv,VALID,
+020,Alex Carter,alex@example.com,OH,2026-10-01T10:00:00Z,19,customers_day05.csv,VALID,
+021,Sarah Stone,sarah1@example.com,TX,2026-10-01T12:00:00Z,20,customers_day05.csv,VALID,
+021,Sarah Stone,sarah2@example.com,TX,2026-10-01T12:00:00Z,21,customers_day05.csv,VALID,
